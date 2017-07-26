@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb8c085a-ba41-4952-8725-5e870fb86382" name="Default" comment="" />
+    <ignored path="atomisy-subscriber.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="atomisy-subscriber" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="itController.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../atomisy_maps/assets/js/itController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="98" column="22" selection-start-line="98" selection-start-column="22" selection-end-line="98" selection-end-column="22" />
+              <folding>
+                <element signature="e#1672#1882#0" expanded="false" />
+                <element signature="e#1956#2102#0" expanded="false" />
+                <element signature="e#2178#2291#0" expanded="false" />
+                <element signature="e#3468#4610#0" expanded="false" />
+                <element signature="e#5956#6853#0" expanded="false" />
+                <element signature="e#6755#6787#0" expanded="false" />
+                <element signature="e#6908#6928#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="maps.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../atomisy_maps/assets/js/maps.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+              <folding>
+                <element signature="e#915#935#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="maps.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../atomisy_maps/maps.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4973">
+              <caret line="555" column="56" selection-start-line="555" selection-start-column="56" selection-end-line="555" selection-end-column="56" />
+              <folding>
+                <element signature="e#7#260#0#PHP" expanded="true" />
+                <element signature="e#4897#5202#0#PHP" expanded="false" />
+                <element signature="e#6700#7687#0#PHP" expanded="false" />
+                <element signature="e#7708#8466#0#PHP" expanded="false" />
+                <element signature="n#atomisy_mapsinteractive_drawingtool#0;n#Atomisy_Plugins#0;n#!!top" expanded="false" />
+                <element signature="n#atomisy_mapsinteractive_maps#0;n#Atomisy_Plugins#0;n#!!top" expanded="false" />
+                <element signature="n#del_marker_drawing_tool#0;n#Atomisy_Plugins#0;n#!!top" expanded="false" />
+                <element signature="n#set_drawing_tool#0;n#Atomisy_Plugins#0;n#!!top" expanded="false" />
+                <element signature="n#atomisy_mapsinteractive_options#0;n#Atomisy_Plugins#0;n#!!top" expanded="false" />
+                <element signature="n#atomisy_mapsinteractive_metabox#0;n#Atomisy_Plugins#0;n#!!top" expanded="false" />
+                <element signature="n#atomisy_mapsinteractive_savemeta#0;n#Atomisy_Plugins#0;n#!!top" expanded="false" />
+                <element signature="n#ATOMISYAdminHTML#0;n#Atomisy_Plugins#0;n#!!top" expanded="false" />
+                <marker date="1475690938483" expanded="true" signature="6361:6446" placeholder="SELECT * FRO... $" />
+                <marker date="1475690938483" expanded="true" signature="11819:11890" placeholder="SELECT * FRO... $" />
+                <marker date="1475690938483" expanded="true" signature="12138:12276" placeholder="SELECT * FRO... $" />
+                <marker date="1475690938483" expanded="true" signature="15521:15685" placeholder="SELECT id_ma... $" />
+                <marker date="1475690938483" expanded="true" signature="16562:16726" placeholder="SELECT id_ma... $" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="subscriber.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/subscriber.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1428">
+              <caret line="88" column="18" selection-start-line="88" selection-start-column="18" selection-end-line="88" selection-end-column="18" />
+              <folding>
+                <marker date="1475344834255" expanded="true" signature="2630:2712" placeholder="SELECT * FRO... $" />
+                <marker date="1475344834255" expanded="true" signature="3545:3610" placeholder="SELECT * FRO... $" />
+                <marker date="1475344834255" expanded="true" signature="4570:4614" placeholder="SELECT * FRO... $" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../../../wp-config.php" />
+        <option value="$PROJECT_DIR$/entity/model/SubscriberModel.php" />
+        <option value="$PROJECT_DIR$/subscriber.php" />
+        <option value="$PROJECT_DIR$/../atomy_maps/Shortcode.php" />
+        <option value="$PROJECT_DIR$/../atomy_maps/ATOMISY.php" />
+        <option value="$PROJECT_DIR$/../atomy_maps/assets/js/itController.js" />
+        <option value="$PROJECT_DIR$/../atomy_maps/maps.php" />
+        <option value="$PROJECT_DIR$/../atomisy_maps/assets/js/maps-js.js" />
+        <option value="$PROJECT_DIR$/../atomisy_maps/maps.php" />
+        <option value="$PROJECT_DIR$/../atomisy_maps/assets/js/maps.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atomisy-subscriber" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atomisy-subscriber" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="npi" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atomisy-subscriber" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="npi" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atomisy-subscriber" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="npi" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atomisy-subscriber" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="npi" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atomisy_maps" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atomisy-subscriber" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="npi" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atomisy_maps" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atomisy-subscriber" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="npi" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atomisy_maps" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Entity" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Model" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atomisy-subscriber" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="npi" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atomisy-subscriber" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\npi\wp-content\plugins\atomisy_maps\assets\css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb8c085a-ba41-4952-8725-5e870fb86382" name="Default" comment="" />
+      <created>1475072114497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1475072114497</updated>
+      <workItem from="1475072118674" duration="8941000" />
+      <workItem from="1475124767448" duration="13384000" />
+      <workItem from="1475167310121" duration="1273000" />
+      <workItem from="1475338835239" duration="31000" />
+      <workItem from="1475562900637" duration="10910000" />
+      <workItem from="1475658682713" duration="7175000" />
+      <workItem from="1475922394318" duration="1573000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="43287000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.245702" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>C:\xampp\htdocs\npi</wordpressPath>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../atomisy_maps/assets/js/itController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1672#1882#0" expanded="false" />
+            <element signature="e#1956#2102#0" expanded="false" />
+            <element signature="e#2178#2291#0" expanded="false" />
+            <element signature="e#3468#4610#0" expanded="false" />
+            <element signature="e#5956#6853#0" expanded="false" />
+            <element signature="e#6755#6787#0" expanded="false" />
+            <element signature="e#6908#6928#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atomisy_maps/assets/js/maps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+          <folding>
+            <element signature="e#915#935#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atomisy_maps/maps.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5355">
+          <caret line="555" column="56" selection-start-line="555" selection-start-column="56" selection-end-line="555" selection-end-column="56" />
+          <folding>
+            <element signature="e#7#260#0#PHP" expanded="true" />
+            <element signature="e#4897#5202#0#PHP" expanded="false" />
+            <element signature="e#6700#7687#0#PHP" expanded="false" />
+            <element signature="e#7708#8466#0#PHP" expanded="false" />
+            <element signature="n#atomisy_mapsinteractive_drawingtool#0;n#Atomisy_Plugins#0;n#!!top" expanded="false" />
+            <element signature="n#atomisy_mapsinteractive_maps#0;n#Atomisy_Plugins#0;n#!!top" expanded="false" />
+            <element signature="n#del_marker_drawing_tool#0;n#Atomisy_Plugins#0;n#!!top" expanded="false" />
+            <element signature="n#set_drawing_tool#0;n#Atomisy_Plugins#0;n#!!top" expanded="false" />
+            <element signature="n#atomisy_mapsinteractive_options#0;n#Atomisy_Plugins#0;n#!!top" expanded="false" />
+            <element signature="n#atomisy_mapsinteractive_metabox#0;n#Atomisy_Plugins#0;n#!!top" expanded="false" />
+            <element signature="n#atomisy_mapsinteractive_savemeta#0;n#Atomisy_Plugins#0;n#!!top" expanded="false" />
+            <element signature="n#ATOMISYAdminHTML#0;n#Atomisy_Plugins#0;n#!!top" expanded="false" />
+            <marker date="1475690938483" expanded="true" signature="6361:6446" placeholder="SELECT * FRO... $" />
+            <marker date="1475690938483" expanded="true" signature="11819:11890" placeholder="SELECT * FRO... $" />
+            <marker date="1475690938483" expanded="true" signature="12138:12276" placeholder="SELECT * FRO... $" />
+            <marker date="1475690938483" expanded="true" signature="15521:15685" placeholder="SELECT id_ma... $" />
+            <marker date="1475690938483" expanded="true" signature="16562:16726" placeholder="SELECT id_ma... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atomisy_maps/Shortcode.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="62" selection-end-column="11" />
+          <folding>
+            <marker date="1475567564780" expanded="true" signature="2618:3319" placeholder="..." />
+            <marker date="1475567564780" expanded="true" signature="2658:3302" placeholder="..." />
+            <marker date="1475567564780" expanded="true" signature="2699:2865" placeholder="..." />
+            <marker date="1475567564780" expanded="true" signature="2904:3133" placeholder="..." />
+            <marker date="1475567564780" expanded="true" signature="2913:2964" placeholder="..." />
+            <marker date="1475567564780" expanded="true" signature="2913:3112" placeholder="..." />
+            <marker date="1475567564780" expanded="true" signature="3153:3281" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atomisy_maps/assets/js/itController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1672#1882#0" expanded="false" />
+            <element signature="e#1956#2102#0" expanded="false" />
+            <element signature="e#2178#2291#0" expanded="false" />
+            <element signature="e#3468#4610#0" expanded="false" />
+            <element signature="e#5956#6853#0" expanded="false" />
+            <element signature="e#6755#6787#0" expanded="false" />
+            <element signature="e#6908#6928#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atomisy_maps/assets/js/maps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding>
+            <element signature="e#915#935#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atomisy_maps/maps.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6783">
+          <caret line="501" column="68" selection-start-line="501" selection-start-column="68" selection-end-line="501" selection-end-column="68" />
+          <folding>
+            <element signature="e#7#260#0#PHP" expanded="true" />
+            <element signature="e#4897#5202#0#PHP" expanded="false" />
+            <element signature="e#6700#7687#0#PHP" expanded="false" />
+            <element signature="e#7708#8466#0#PHP" expanded="false" />
+            <element signature="n#atomisy_mapsinteractive_drawingtool#0;n#Atomisy_Plugins#0;n#!!top" expanded="false" />
+            <element signature="n#atomisy_mapsinteractive_maps#0;n#Atomisy_Plugins#0;n#!!top" expanded="false" />
+            <element signature="n#del_marker_drawing_tool#0;n#Atomisy_Plugins#0;n#!!top" expanded="false" />
+            <element signature="n#set_drawing_tool#0;n#Atomisy_Plugins#0;n#!!top" expanded="false" />
+            <element signature="n#atomisy_mapsinteractive_options#0;n#Atomisy_Plugins#0;n#!!top" expanded="false" />
+            <element signature="n#atomisy_mapsinteractive_metabox#0;n#Atomisy_Plugins#0;n#!!top" expanded="false" />
+            <element signature="n#atomisy_mapsinteractive_savemeta#0;n#Atomisy_Plugins#0;n#!!top" expanded="false" />
+            <element signature="n#ATOMISYAdminHTML#0;n#Atomisy_Plugins#0;n#!!top" expanded="false" />
+            <marker date="1475690938483" expanded="true" signature="6361:6446" placeholder="SELECT * FRO... $" />
+            <marker date="1475690938483" expanded="true" signature="11819:11890" placeholder="SELECT * FRO... $" />
+            <marker date="1475690938483" expanded="true" signature="12138:12276" placeholder="SELECT * FRO... $" />
+            <marker date="1475690938483" expanded="true" signature="15521:15685" placeholder="SELECT id_ma... $" />
+            <marker date="1475690938483" expanded="true" signature="16562:16726" placeholder="SELECT id_ma... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atomisy_maps/Shortcode.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="56" selection-end-column="43" />
+          <folding>
+            <marker date="1475567564780" expanded="true" signature="2618:3319" placeholder="..." />
+            <marker date="1475567564780" expanded="true" signature="2658:3302" placeholder="..." />
+            <marker date="1475567564780" expanded="true" signature="2699:2865" placeholder="..." />
+            <marker date="1475567564780" expanded="true" signature="2904:3133" placeholder="..." />
+            <marker date="1475567564780" expanded="true" signature="2913:2964" placeholder="..." />
+            <marker date="1475567564780" expanded="true" signature="2913:3112" placeholder="..." />
+            <marker date="1475567564780" expanded="true" signature="3153:3281" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atomisy_maps/Entity/Model/MapsModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="30" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subscriber.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entity/model/SubscriberModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subscriber.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entity/model/SubscriberModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subscriber.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entity/model/SubscriberModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subscriber.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entity/model/SubscriberModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="86" column="31" selection-start-line="86" selection-start-column="31" selection-end-line="86" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../wp-includes/default-constants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-663">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../wp-settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="86" column="31" selection-start-line="86" selection-start-column="31" selection-end-line="86" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../contact-form-7/includes/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5341">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../contact-form-7/wp-contact-form-7.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="38" column="38" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../contact-form-7/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="65" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../contact-form-7/modules/select.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-459">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../contact-form-7/includes/submission.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="241" column="8" selection-start-line="241" selection-start-column="8" selection-end-line="241" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entity/model/SubscriberModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atomisy-advert/advert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atomisy_maps/assets/js/Controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="349" column="33" selection-start-line="349" selection-start-column="33" selection-end-line="349" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atomisy_maps/src/Controller/MapsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atomy_maps/Entity/Model/MapsModel.php" />
+    <entry file="file://$PROJECT_DIR$/../atomisy_maps/assets/css/global.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ATOMISY/Resources/themes/maps-interactive.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ATOMISY/ATOMISY.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5562">
+          <caret line="558" column="8" selection-start-line="558" selection-start-column="8" selection-end-line="561" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atomisy_maps/Entity/Model/MapsModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="52" column="30" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../wp-includes/post-thumbnail-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="207" column="37" selection-start-line="207" selection-start-column="11" selection-end-line="207" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/_types.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atomisy_maps/assets/js/itController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="98" column="22" selection-start-line="98" selection-start-column="22" selection-end-line="98" selection-end-column="22" />
+          <folding>
+            <element signature="e#1672#1882#0" expanded="false" />
+            <element signature="e#1956#2102#0" expanded="false" />
+            <element signature="e#2178#2291#0" expanded="false" />
+            <element signature="e#3468#4610#0" expanded="false" />
+            <element signature="e#5956#6853#0" expanded="false" />
+            <element signature="e#6755#6787#0" expanded="false" />
+            <element signature="e#6908#6928#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atomisy_maps/Shortcode.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="62" selection-end-column="11" />
+          <folding>
+            <marker date="1475567564780" expanded="true" signature="2618:3319" placeholder="..." />
+            <marker date="1475567564780" expanded="true" signature="2658:3302" placeholder="..." />
+            <marker date="1475567564780" expanded="true" signature="2699:2865" placeholder="..." />
+            <marker date="1475567564780" expanded="true" signature="2904:3133" placeholder="..." />
+            <marker date="1475567564780" expanded="true" signature="2913:2964" placeholder="..." />
+            <marker date="1475567564780" expanded="true" signature="2913:3112" placeholder="..." />
+            <marker date="1475567564780" expanded="true" signature="3153:3281" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atomisy_maps/assets/js/maps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+          <folding>
+            <element signature="e#915#935#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atomisy_maps/maps.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4973">
+          <caret line="555" column="56" selection-start-line="555" selection-start-column="56" selection-end-line="555" selection-end-column="56" />
+          <folding>
+            <element signature="e#7#260#0#PHP" expanded="true" />
+            <element signature="e#4897#5202#0#PHP" expanded="false" />
+            <element signature="e#6700#7687#0#PHP" expanded="false" />
+            <element signature="e#7708#8466#0#PHP" expanded="false" />
+            <element signature="n#atomisy_mapsinteractive_drawingtool#0;n#Atomisy_Plugins#0;n#!!top" expanded="false" />
+            <element signature="n#atomisy_mapsinteractive_maps#0;n#Atomisy_Plugins#0;n#!!top" expanded="false" />
+            <element signature="n#del_marker_drawing_tool#0;n#Atomisy_Plugins#0;n#!!top" expanded="false" />
+            <element signature="n#set_drawing_tool#0;n#Atomisy_Plugins#0;n#!!top" expanded="false" />
+            <element signature="n#atomisy_mapsinteractive_options#0;n#Atomisy_Plugins#0;n#!!top" expanded="false" />
+            <element signature="n#atomisy_mapsinteractive_metabox#0;n#Atomisy_Plugins#0;n#!!top" expanded="false" />
+            <element signature="n#atomisy_mapsinteractive_savemeta#0;n#Atomisy_Plugins#0;n#!!top" expanded="false" />
+            <element signature="n#ATOMISYAdminHTML#0;n#Atomisy_Plugins#0;n#!!top" expanded="false" />
+            <marker date="1475690938483" expanded="true" signature="6361:6446" placeholder="SELECT * FRO... $" />
+            <marker date="1475690938483" expanded="true" signature="11819:11890" placeholder="SELECT * FRO... $" />
+            <marker date="1475690938483" expanded="true" signature="12138:12276" placeholder="SELECT * FRO... $" />
+            <marker date="1475690938483" expanded="true" signature="15521:15685" placeholder="SELECT id_ma... $" />
+            <marker date="1475690938483" expanded="true" signature="16562:16726" placeholder="SELECT id_ma... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subscriber.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="88" column="18" selection-start-line="88" selection-start-column="18" selection-end-line="88" selection-end-column="18" />
+          <folding>
+            <marker date="1475344834255" expanded="true" signature="2630:2712" placeholder="SELECT * FRO... $" />
+            <marker date="1475344834255" expanded="true" signature="3545:3610" placeholder="SELECT * FRO... $" />
+            <marker date="1475344834255" expanded="true" signature="4570:4614" placeholder="SELECT * FRO... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
